@@ -1,4 +1,5 @@
 {
+  "formatVersion": 1,
   "name": "Wii U Mod Store Template Repo",
   "description": "Official template repository for the Wii U Mod Store. Fork this to host your own mods.",
   "author": "your-name",
