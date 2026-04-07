@@ -5,5 +5,14 @@
   "titleIds": [
      "00050000-10144F00"
   ],
-  "mods": [ ... ]
+  "mods": [   "id": "mikewazowskissb4",
+      "name": "Mike wazozki",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "RG",
+      "description": ":).",
+      "thumbnail": "https://picsum.photos/seed/mk8mod1/400/225",
+      "screenshots": [
+        "https://picsum.photos/seed/mk8mod1a/800/450",
+        "https://picsum.photos/seed/mk8mod1b/800/450" ]
 }
