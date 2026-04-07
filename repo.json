@@ -1,8 +1,8 @@
 {
   "formatVersion": 1,
-  "name": "CupStore Template Repo",
-  "description": "Official template repository for CupStore. Fork this to host your own mods.",
-  "author": "your-name",
+  "name": "Rstore",
+  "description": "Random Gamebannana mods",
+  "author": "RG",
   "version": "1",
   "games": [
     {
